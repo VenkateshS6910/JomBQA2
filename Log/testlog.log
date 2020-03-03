@@ -267,3 +267,43 @@
 2020-03-02 20:19:54,553 - Jombone -INFO - Clicked on Forget Password
 2020-03-02 20:19:54,567 - Jombone -INFO - Test Passed! Forget Password link Successfully click
 2020-03-02 20:19:55,721 - Jombone -INFO - Completed Forget Password link Test
+2020-03-03 10:58:14,937 - Jombone -DEBUG - Debug logging has started 
+2020-03-03 10:58:25,550 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-03-03 10:58:33,033 - Jombone -INFO - Terms and conditions page displayed
+2020-03-03 10:58:34,246 - Jombone -DEBUG - Debug logging has started 
+2020-03-03 10:58:58,568 - Jombone -INFO - Login Successful!
+2020-03-03 10:58:59,319 - Jombone -INFO - Test Failed! Widnow didnt opened as expected
+2020-03-03 10:58:59,667 - Jombone -INFO - Salary_Deposit_Edit_Button test Completed
+2020-03-03 10:59:00,934 - Jombone -DEBUG - Debug logging has started 
+2020-03-03 10:59:33,653 - Jombone -DEBUG - Debug logging has started 
+2020-03-03 10:59:39,309 - Jombone -INFO - Started Click on Sign Up Link Test
+2020-03-03 10:59:40,490 - Jombone -INFO - Clicked on Login
+2020-03-03 10:59:42,032 - Jombone -INFO - Clicked on SignUp
+2020-03-03 10:59:42,037 - Jombone -INFO - Test Passed! Sign up Link Successful!
+2020-03-03 10:59:42,814 - Jombone -INFO - Completed Sign up Link
+2020-03-03 10:59:43,470 - Jombone -DEBUG - Debug logging has started 
+2020-03-03 10:59:52,556 - Jombone -INFO - Started Forget Password link Test
+2020-03-03 10:59:54,115 - Jombone -INFO - Clicked on Login
+2020-03-03 10:59:54,399 - Jombone -INFO - Clicked on Forget Password
+2020-03-03 10:59:54,408 - Jombone -INFO - Test Passed! Forget Password link Successfully click
+2020-03-03 10:59:55,301 - Jombone -INFO - Completed Forget Password link Test
+2020-03-03 11:03:45,034 - Jombone -DEBUG - Debug logging has started 
+2020-03-03 11:03:49,474 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-03-03 11:03:55,728 - Jombone -INFO - Terms and conditions page displayed
+2020-03-03 11:03:56,814 - Jombone -DEBUG - Debug logging has started 
+2020-03-03 11:04:06,856 - Jombone -INFO - Login Successful!
+2020-03-03 11:04:07,540 - Jombone -INFO - Test Passed! Window is opened as expected
+2020-03-03 11:04:07,933 - Jombone -INFO - Salary_Deposit_Edit_Button test Completed
+2020-03-03 11:04:08,580 - Jombone -DEBUG - Debug logging has started 
+2020-03-03 11:04:25,825 - Jombone -DEBUG - Debug logging has started 
+2020-03-03 11:04:33,147 - Jombone -INFO - Started Click on Sign Up Link Test
+2020-03-03 11:04:35,051 - Jombone -INFO - Clicked on Login
+2020-03-03 11:04:36,100 - Jombone -INFO - Clicked on SignUp
+2020-03-03 11:04:36,140 - Jombone -INFO - Test Passed! Sign up Link Successful!
+2020-03-03 11:04:36,986 - Jombone -INFO - Completed Sign up Link
+2020-03-03 11:04:37,655 - Jombone -DEBUG - Debug logging has started 
+2020-03-03 11:04:42,556 - Jombone -INFO - Started Forget Password link Test
+2020-03-03 11:04:44,326 - Jombone -INFO - Clicked on Login
+2020-03-03 11:04:44,613 - Jombone -INFO - Clicked on Forget Password
+2020-03-03 11:04:44,621 - Jombone -INFO - Test Passed! Forget Password link Successfully click
+2020-03-03 11:04:45,518 - Jombone -INFO - Completed Forget Password link Test

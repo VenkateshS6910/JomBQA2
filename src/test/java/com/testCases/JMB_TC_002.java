@@ -50,7 +50,7 @@ public class JMB_TC_002 extends BaseClass {
 		pp.ClickSalarydeposit();				//Clicking to salary deposit edit field
 		 
 		  
-		 if(!pp.SalaryDepositWindow.isEnabled()) {
+		 if(pp.SalaryDepositWindow.isEnabled()) {
 			softassert.assertTrue(true);
 			logger.info("Test Passed! Window is opened as expected");
 			captureScreen(driver,"JMB_TC_002");

@@ -1,10 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 101.58 sec <<< FAILURE! - in TestSuite
-JMB_TC_002(com.testCases.JMB_TC_002)  Time elapsed: 6.759 sec  <<< FAILURE!
-java.lang.AssertionError: 
-The following asserts failed:
-	expected [false] but found [true]
-	at com.testCases.JMB_TC_002.JMB_TC_002(JMB_TC_002.java:62)
-
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 62.293 sec - in TestSuite
