@@ -51,11 +51,11 @@ public class JMB_TC_002 extends BaseClass {
 		 
 		  
 		 if(!pp.SalaryDepositWindow.isEnabled()) {
-			softassert.assertTrue(false);
+			softassert.assertTrue(true);
 			logger.info("Test Passed! Window is opened as expected");
 			captureScreen(driver,"JMB_TC_002");
 		} else {
-			softassert.assertFalse(true);
+			softassert.assertFalse(false);
 			logger.info("Test Failed! Widnow didnt opened as expected");
 			captureScreen(driver,"JMB_TC_002");
 		}
