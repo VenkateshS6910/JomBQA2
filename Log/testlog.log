@@ -1,0 +1,269 @@
+2020-02-28 10:00:30,715 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 10:00:51,477 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-28 10:01:11,179 - Jombone -INFO - Terms and conditions page displayed
+2020-02-28 10:01:13,156 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 10:01:52,705 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 10:02:09,377 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-28 10:02:28,647 - Jombone -INFO - Terms and conditions page displayed
+2020-02-28 10:05:18,377 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 10:05:35,388 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-28 10:05:54,315 - Jombone -INFO - Terms and conditions page displayed
+2020-02-28 11:21:21,174 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 11:21:37,319 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-28 11:21:56,304 - Jombone -INFO - Terms and conditions page displayed
+2020-02-28 15:21:21,940 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:21:54,196 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-28 15:24:32,131 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:25:03,010 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-28 15:25:29,589 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:26:21,417 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:27:14,828 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:27:35,445 - Jombone -INFO - Started Click on Sign Up Link Test
+2020-02-28 15:28:01,519 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:28:29,407 - Jombone -INFO - Started Forget Password link Test
+2020-02-28 15:33:50,132 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:34:19,117 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-28 15:34:47,085 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:35:36,146 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:36:24,595 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:36:46,368 - Jombone -INFO - Started Click on Sign Up Link Test
+2020-02-28 15:37:12,779 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:37:31,011 - Jombone -INFO - Started Forget Password link Test
+2020-02-28 15:41:02,896 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:41:18,540 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-28 15:41:37,452 - Jombone -INFO - Terms and conditions page displayed
+2020-02-28 15:41:40,128 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:42:15,469 - Jombone -INFO - Login Successful!
+2020-02-28 15:42:23,295 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:43:03,116 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:43:19,317 - Jombone -INFO - Started Click on Sign Up Link Test
+2020-02-28 15:43:24,653 - Jombone -INFO - Clicked on Login
+2020-02-28 15:43:33,366 - Jombone -INFO - Clicked on SignUp
+2020-02-28 15:43:33,412 - Jombone -INFO - Test Passed! Sign up Link Successful!
+2020-02-28 15:43:36,221 - Jombone -INFO - Completed Sign up Link
+2020-02-28 15:43:37,975 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:43:53,636 - Jombone -INFO - Started Forget Password link Test
+2020-02-28 15:44:02,094 - Jombone -INFO - Clicked on Login
+2020-02-28 15:44:07,342 - Jombone -INFO - Clicked on Forget Password
+2020-02-28 15:44:07,366 - Jombone -ERROR - Test Failed! Forget Password link not clicked 
+2020-02-28 15:46:21,673 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:47:14,935 - Jombone -INFO - Login Successful!
+2020-02-28 15:47:16,736 - Jombone -INFO - Test Failed! Widnow didnt opened as expected
+2020-02-28 15:54:00,726 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:54:31,325 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-28 15:54:57,491 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:55:45,554 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:56:38,405 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:57:05,606 - Jombone -INFO - Started Click on Sign Up Link Test
+2020-02-28 15:57:31,453 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 15:58:02,214 - Jombone -INFO - Started Forget Password link Test
+2020-02-28 16:02:52,766 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:03:24,434 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-28 16:03:50,863 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:04:41,465 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:05:33,462 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:06:22,122 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:06:49,440 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-28 16:07:15,786 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:08:01,013 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:09:36,602 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:09:55,565 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-28 16:10:09,563 - Jombone -INFO - Terms and conditions page displayed
+2020-02-28 16:10:11,118 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:10:30,740 - Jombone -INFO - Login Successful!
+2020-02-28 16:10:32,312 - Jombone -INFO - Test Failed! Widnow didnt opened as expected
+2020-02-28 16:10:33,726 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:11:02,711 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:11:17,088 - Jombone -INFO - Started Click on Sign Up Link Test
+2020-02-28 16:11:19,038 - Jombone -INFO - Clicked on Login
+2020-02-28 16:11:21,637 - Jombone -INFO - Clicked on SignUp
+2020-02-28 16:11:21,678 - Jombone -INFO - Test Passed! Sign up Link Successful!
+2020-02-28 16:11:23,414 - Jombone -INFO - Completed Sign up Link
+2020-02-28 16:11:24,087 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:11:38,852 - Jombone -INFO - Started Forget Password link Test
+2020-02-28 16:11:44,805 - Jombone -INFO - Clicked on Login
+2020-02-28 16:11:45,403 - Jombone -INFO - Clicked on Forget Password
+2020-02-28 16:11:45,428 - Jombone -INFO - Test Passed! Forget Password link Successfully click
+2020-02-28 16:11:47,197 - Jombone -INFO - Completed Forget Password link Test
+2020-02-28 16:15:52,785 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:16:10,385 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-28 16:16:22,886 - Jombone -INFO - Terms and conditions page displayed
+2020-02-28 16:16:24,532 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:16:49,143 - Jombone -INFO - Login Successful!
+2020-02-28 16:16:51,415 - Jombone -INFO - Test Failed! Widnow didnt opened as expected
+2020-02-28 16:16:52,832 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:17:27,466 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:17:43,529 - Jombone -INFO - Started Click on Sign Up Link Test
+2020-02-28 16:17:46,646 - Jombone -INFO - Clicked on Login
+2020-02-28 16:17:49,912 - Jombone -INFO - Clicked on SignUp
+2020-02-28 16:17:49,947 - Jombone -INFO - Test Passed! Sign up Link Successful!
+2020-02-28 16:17:51,623 - Jombone -INFO - Completed Sign up Link
+2020-02-28 16:17:52,304 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:18:06,898 - Jombone -INFO - Started Forget Password link Test
+2020-02-28 16:18:09,342 - Jombone -INFO - Clicked on Login
+2020-02-28 16:18:09,949 - Jombone -INFO - Clicked on Forget Password
+2020-02-28 16:18:09,975 - Jombone -INFO - Test Passed! Forget Password link Successfully click
+2020-02-28 16:18:12,632 - Jombone -INFO - Completed Forget Password link Test
+2020-02-28 16:44:05,916 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:44:25,194 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-28 16:44:38,325 - Jombone -INFO - Terms and conditions page displayed
+2020-02-28 16:44:40,031 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:45:04,108 - Jombone -INFO - Login Successful!
+2020-02-28 16:45:05,685 - Jombone -INFO - Test Failed! Widnow didnt opened as expected
+2020-02-28 16:45:07,065 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:45:52,980 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:46:07,274 - Jombone -INFO - Started Click on Sign Up Link Test
+2020-02-28 16:46:09,810 - Jombone -INFO - Clicked on Login
+2020-02-28 16:46:12,380 - Jombone -INFO - Clicked on SignUp
+2020-02-28 16:46:12,435 - Jombone -INFO - Test Passed! Sign up Link Successful!
+2020-02-28 16:46:14,321 - Jombone -INFO - Completed Sign up Link
+2020-02-28 16:46:15,038 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:46:35,464 - Jombone -INFO - Started Forget Password link Test
+2020-02-28 16:46:37,344 - Jombone -INFO - Clicked on Login
+2020-02-28 16:46:37,883 - Jombone -INFO - Clicked on Forget Password
+2020-02-28 16:46:37,897 - Jombone -INFO - Test Passed! Forget Password link Successfully click
+2020-02-28 16:46:39,671 - Jombone -INFO - Completed Forget Password link Test
+2020-02-28 16:51:00,713 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:51:18,602 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-28 16:51:31,694 - Jombone -INFO - Terms and conditions page displayed
+2020-02-28 16:54:21,000 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:54:39,092 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-28 16:55:02,134 - Jombone -INFO - Terms and conditions page displayed
+2020-02-28 16:58:14,291 - Jombone -DEBUG - Debug logging has started 
+2020-02-28 16:58:30,544 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-28 16:58:44,031 - Jombone -INFO - Terms and conditions page displayed
+2020-02-29 18:06:05,017 - Jombone -DEBUG - Debug logging has started 
+2020-02-29 18:06:22,817 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-29 18:06:35,087 - Jombone -INFO - Terms and conditions page displayed
+2020-02-29 18:12:39,561 - Jombone -DEBUG - Debug logging has started 
+2020-02-29 18:12:54,378 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-29 18:13:06,676 - Jombone -INFO - Terms and conditions page displayed
+2020-02-29 18:16:54,215 - Jombone -DEBUG - Debug logging has started 
+2020-02-29 18:17:08,858 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-29 18:17:20,984 - Jombone -INFO - Terms and conditions page displayed
+2020-02-29 18:22:22,257 - Jombone -DEBUG - Debug logging has started 
+2020-02-29 18:22:36,694 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-29 18:22:48,915 - Jombone -INFO - Terms and conditions page displayed
+2020-02-29 18:25:50,476 - Jombone -DEBUG - Debug logging has started 
+2020-02-29 18:26:05,620 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-29 18:26:17,841 - Jombone -INFO - Terms and conditions page displayed
+2020-02-29 18:32:40,933 - Jombone -DEBUG - Debug logging has started 
+2020-02-29 18:32:57,458 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-29 18:33:09,755 - Jombone -INFO - Terms and conditions page displayed
+2020-02-29 18:53:23,698 - Jombone -DEBUG - Debug logging has started 
+2020-02-29 18:53:40,978 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-02-29 18:53:53,211 - Jombone -INFO - Terms and conditions page displayed
+2020-03-01 12:34:58,673 - Jombone -DEBUG - Debug logging has started 
+2020-03-01 12:35:16,816 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-03-01 12:35:28,932 - Jombone -INFO - Terms and conditions page displayed
+2020-03-01 12:35:30,400 - Jombone -DEBUG - Debug logging has started 
+2020-03-01 12:35:47,112 - Jombone -INFO - Login Successful!
+2020-03-01 12:35:48,504 - Jombone -INFO - Test Failed! Widnow didnt opened as expected
+2020-03-01 12:35:49,862 - Jombone -DEBUG - Debug logging has started 
+2020-03-01 12:36:13,243 - Jombone -DEBUG - Debug logging has started 
+2020-03-01 12:36:25,246 - Jombone -INFO - Started Click on Sign Up Link Test
+2020-03-01 12:36:26,445 - Jombone -INFO - Clicked on Login
+2020-03-01 12:36:28,482 - Jombone -INFO - Clicked on SignUp
+2020-03-01 12:36:28,538 - Jombone -INFO - Test Passed! Sign up Link Successful!
+2020-03-01 12:36:30,245 - Jombone -INFO - Completed Sign up Link
+2020-03-01 12:36:30,912 - Jombone -DEBUG - Debug logging has started 
+2020-03-01 12:36:43,148 - Jombone -INFO - Started Forget Password link Test
+2020-03-01 12:36:44,363 - Jombone -INFO - Clicked on Login
+2020-03-01 12:36:44,886 - Jombone -INFO - Clicked on Forget Password
+2020-03-01 12:36:44,911 - Jombone -INFO - Test Passed! Forget Password link Successfully click
+2020-03-01 12:36:46,579 - Jombone -INFO - Completed Forget Password link Test
+2020-03-01 20:10:01,787 - Jombone -DEBUG - Debug logging has started 
+2020-03-01 20:10:19,327 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-03-01 20:10:31,726 - Jombone -INFO - Terms and conditions page displayed
+2020-03-01 20:10:33,280 - Jombone -DEBUG - Debug logging has started 
+2020-03-01 20:10:50,848 - Jombone -INFO - Login Successful!
+2020-03-01 20:10:52,648 - Jombone -INFO - Test Failed! Widnow didnt opened as expected
+2020-03-01 20:10:54,200 - Jombone -DEBUG - Debug logging has started 
+2020-03-01 20:11:18,291 - Jombone -DEBUG - Debug logging has started 
+2020-03-01 20:11:30,553 - Jombone -INFO - Started Click on Sign Up Link Test
+2020-03-01 20:11:31,765 - Jombone -INFO - Clicked on Login
+2020-03-01 20:11:33,934 - Jombone -INFO - Clicked on SignUp
+2020-03-01 20:11:33,978 - Jombone -INFO - Test Passed! Sign up Link Successful!
+2020-03-01 20:11:35,718 - Jombone -INFO - Completed Sign up Link
+2020-03-01 20:11:36,383 - Jombone -DEBUG - Debug logging has started 
+2020-03-01 20:11:48,751 - Jombone -INFO - Started Forget Password link Test
+2020-03-01 20:11:49,957 - Jombone -INFO - Clicked on Login
+2020-03-01 20:11:50,472 - Jombone -INFO - Clicked on Forget Password
+2020-03-01 20:11:50,496 - Jombone -INFO - Test Passed! Forget Password link Successfully click
+2020-03-01 20:11:52,262 - Jombone -INFO - Completed Forget Password link Test
+2020-03-01 20:24:18,475 - Jombone -DEBUG - Debug logging has started 
+2020-03-01 20:24:36,567 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-03-01 20:24:48,899 - Jombone -INFO - Terms and conditions page displayed
+2020-03-01 20:24:50,502 - Jombone -DEBUG - Debug logging has started 
+2020-03-01 20:25:08,393 - Jombone -INFO - Login Successful!
+2020-03-01 20:25:10,480 - Jombone -INFO - Test Failed! Widnow didnt opened as expected
+2020-03-01 20:25:12,570 - Jombone -DEBUG - Debug logging has started 
+2020-03-01 20:25:38,513 - Jombone -DEBUG - Debug logging has started 
+2020-03-01 20:25:50,889 - Jombone -INFO - Started Click on Sign Up Link Test
+2020-03-01 20:25:52,200 - Jombone -INFO - Clicked on Login
+2020-03-01 20:25:54,341 - Jombone -INFO - Clicked on SignUp
+2020-03-01 20:25:54,399 - Jombone -INFO - Test Passed! Sign up Link Successful!
+2020-03-01 20:25:56,074 - Jombone -INFO - Completed Sign up Link
+2020-03-01 20:25:56,733 - Jombone -DEBUG - Debug logging has started 
+2020-03-01 20:26:08,843 - Jombone -INFO - Started Forget Password link Test
+2020-03-01 20:26:10,000 - Jombone -INFO - Clicked on Login
+2020-03-01 20:26:10,531 - Jombone -INFO - Clicked on Forget Password
+2020-03-01 20:26:10,548 - Jombone -INFO - Test Passed! Forget Password link Successfully click
+2020-03-01 20:26:12,297 - Jombone -INFO - Completed Forget Password link Test
+2020-03-02 08:54:41,477 - Jombone -DEBUG - Debug logging has started 
+2020-03-02 08:55:00,310 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-03-02 08:55:13,276 - Jombone -INFO - Terms and conditions page displayed
+2020-03-02 08:55:14,803 - Jombone -DEBUG - Debug logging has started 
+2020-03-02 08:55:33,363 - Jombone -INFO - Login Successful!
+2020-03-02 08:55:34,943 - Jombone -INFO - Test Failed! Widnow didnt opened as expected
+2020-03-02 08:55:36,318 - Jombone -DEBUG - Debug logging has started 
+2020-03-02 08:56:05,974 - Jombone -DEBUG - Debug logging has started 
+2020-03-02 08:56:19,008 - Jombone -INFO - Started Click on Sign Up Link Test
+2020-03-02 08:56:20,736 - Jombone -INFO - Clicked on Login
+2020-03-02 08:56:23,367 - Jombone -INFO - Clicked on SignUp
+2020-03-02 08:56:23,418 - Jombone -INFO - Test Passed! Sign up Link Successful!
+2020-03-02 08:56:25,124 - Jombone -INFO - Completed Sign up Link
+2020-03-02 08:56:26,160 - Jombone -DEBUG - Debug logging has started 
+2020-03-02 08:56:39,077 - Jombone -INFO - Started Forget Password link Test
+2020-03-02 08:56:40,907 - Jombone -INFO - Clicked on Login
+2020-03-02 08:56:41,515 - Jombone -INFO - Clicked on Forget Password
+2020-03-02 08:56:41,538 - Jombone -INFO - Test Passed! Forget Password link Successfully click
+2020-03-02 08:56:43,258 - Jombone -INFO - Completed Forget Password link Test
+2020-03-02 20:14:01,785 - Jombone -DEBUG - Debug logging has started 
+2020-03-02 20:14:16,994 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-03-02 20:14:28,584 - Jombone -INFO - Terms and conditions page displayed
+2020-03-02 20:14:29,743 - Jombone -DEBUG - Debug logging has started 
+2020-03-02 20:14:45,424 - Jombone -INFO - Login Successful!
+2020-03-02 20:14:46,622 - Jombone -INFO - Test Failed! Widnow didnt opened as expected
+2020-03-02 20:14:47,771 - Jombone -DEBUG - Debug logging has started 
+2020-03-02 20:15:13,314 - Jombone -DEBUG - Debug logging has started 
+2020-03-02 20:15:24,731 - Jombone -INFO - Started Click on Sign Up Link Test
+2020-03-02 20:15:25,843 - Jombone -INFO - Clicked on Login
+2020-03-02 20:15:27,575 - Jombone -INFO - Clicked on SignUp
+2020-03-02 20:15:27,594 - Jombone -INFO - Test Passed! Sign up Link Successful!
+2020-03-02 20:15:28,764 - Jombone -INFO - Completed Sign up Link
+2020-03-02 20:15:29,390 - Jombone -DEBUG - Debug logging has started 
+2020-03-02 20:15:40,402 - Jombone -INFO - Started Forget Password link Test
+2020-03-02 20:15:41,610 - Jombone -INFO - Clicked on Login
+2020-03-02 20:15:42,109 - Jombone -INFO - Clicked on Forget Password
+2020-03-02 20:15:42,123 - Jombone -INFO - Test Passed! Forget Password link Successfully click
+2020-03-02 20:15:43,347 - Jombone -INFO - Completed Forget Password link Test
+2020-03-02 20:18:16,989 - Jombone -DEBUG - Debug logging has started 
+2020-03-02 20:18:29,064 - Jombone -INFO - Started My Profile - Personal Details Validation Test
+2020-03-02 20:18:40,361 - Jombone -INFO - Terms and conditions page displayed
+2020-03-02 20:18:41,567 - Jombone -DEBUG - Debug logging has started 
+2020-03-02 20:18:58,927 - Jombone -INFO - Login Successful!
+2020-03-02 20:19:00,224 - Jombone -INFO - Test Failed! Widnow didnt opened as expected
+2020-03-02 20:19:01,306 - Jombone -DEBUG - Debug logging has started 
+2020-03-02 20:19:26,340 - Jombone -DEBUG - Debug logging has started 
+2020-03-02 20:19:37,254 - Jombone -INFO - Started Click on Sign Up Link Test
+2020-03-02 20:19:38,556 - Jombone -INFO - Clicked on Login
+2020-03-02 20:19:40,283 - Jombone -INFO - Clicked on SignUp
+2020-03-02 20:19:40,289 - Jombone -INFO - Test Passed! Sign up Link Successful!
+2020-03-02 20:19:41,432 - Jombone -INFO - Completed Sign up Link
+2020-03-02 20:19:42,051 - Jombone -DEBUG - Debug logging has started 
+2020-03-02 20:19:53,112 - Jombone -INFO - Started Forget Password link Test
+2020-03-02 20:19:54,198 - Jombone -INFO - Clicked on Login
+2020-03-02 20:19:54,553 - Jombone -INFO - Clicked on Forget Password
+2020-03-02 20:19:54,567 - Jombone -INFO - Test Passed! Forget Password link Successfully click
+2020-03-02 20:19:55,721 - Jombone -INFO - Completed Forget Password link Test
