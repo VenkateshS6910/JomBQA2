@@ -16,6 +16,8 @@
 	</properties>
 
 	<build>
+		<defaultGoal>install</defaultGoal>
+
 		<plugins>
 
 			<plugin>
@@ -25,6 +27,7 @@
 					<source>1.6</source>
 					<target>1.6</target>
 				</configuration>
+				<version>2.3.2</version>
 			</plugin>
 
 			<plugin>
