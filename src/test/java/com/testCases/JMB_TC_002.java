@@ -58,7 +58,6 @@ public class JMB_TC_002 extends BaseClass {
 			logger.info("Test Failed! Widnow didnt opened as expected");
 			captureScreen(driver,"JMB_TC_002");
 		}
-		softassert.assertAll(); 
 		logger.info("Salary_Deposit_Edit_Button test Completed");
 	}
 }
